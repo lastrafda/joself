@@ -1,28 +1,42 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <div id="app" class="flex-col">
+    <header
+      class="flex flex-col sm:flex-row justify-between items-center px-8 py-2 border-b-2 border-yellow-600 border-solid"
+    >
+      <h1 class="m-0">
+        <a href="/" class="text-yellow-600 text-3xl font-bold">Joself</a>
+      </h1>
+
+      <nav>
+        <a
+          href="https://calebporzio.com/projects"
+          class="text-yellow-600 font-bold text-md"
+        >About Me</a>&nbsp;&nbsp;•&nbsp;&nbsp;
+        <a
+          href="https://calebporzio.com"
+          class="text-yellow-600 text-md font-bold"
+        >Thougts</a>
+      </nav>
+    </header>
+    <main class="max-w-3xl mx-auto py-8">
+      <p>I Like PHP So What</p>
+    </main>
   </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
-
 export default {
-  name: 'App',
-  components: {
-    HelloWorld
-  }
-}
+  name: "App",
+  components: {}
+};
 </script>
 
 <style>
+html {
+  height: 100%;
+}
+body,
 #app {
-  font-family: Avenir, Helvetica, Arial, sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  text-align: center;
-  color: #2c3e50;
-  margin-top: 60px;
+  min-height: 100vh;
 }
 </style>
