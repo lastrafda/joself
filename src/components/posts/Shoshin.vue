@@ -5,7 +5,7 @@
     <br />
     <p>Quizás hayas escuchado una historia similar a esta:</p>
     <br />
-    <p>Un PhD en busca de iluminación va donde un sabio monje por guía espiritual. El PhD domina la discusión, describiendo todo lo que ha aprendido en su vida y resaltando los múltiples papers que ha escrito. El monje le pregunta: ¿Un Tesito? y comienza a servir té en la copa del PhD. Y continúa sirviendole té hasta la copa se comienza a revalsar, empapando la mesa e incluso el suelo!.</p>
+    <p>Un PhD en busca de iluminación va donde un sabio monje por guía espiritual. El PhD domina la discusión, describiendo todo lo que ha aprendido en su vida y resaltando los múltiples papers que ha escrito. El monje le pregunta: ¿Un tecito? y comienza a servir té en la copa del PhD. Y continúa sirviendole té hasta la copa se comienza a revalsar, empapando la mesa e incluso el suelo!.</p>
     <br />
     <p>
       <b>PhD:</b> ¿Qué estás haciendo?
