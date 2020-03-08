@@ -7,6 +7,7 @@ import About from '@/components/About'
 import Contact from '@/components/Contact'
 import If from '@/components/If'
 import Publications from '@/components/Publications'
+import Shoshin from '@/components/posts/Shoshin'
 
 Vue.config.productionTip = false
 Vue.use(VueRouter)
@@ -15,7 +16,8 @@ const routes = [
   { path: '/', component: About },
   { path: '/contact', component: Contact},
   { path: '/if', component: If},
-  { path: '/publications', component: Publications}
+  { path: '/publications', component: Publications},
+  { path: '/posts/shoshin', component: Shoshin}
 ];
 
 const router = new VueRouter({

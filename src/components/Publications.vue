@@ -1,16 +1,23 @@
 <template>
-  <div class="py-8">
-      A very fancy word for my writings :p. Deal with it!
-      <img src="../assets/publications.jpg" alt="If I had one meme">
+  <div class="py-8 px-4">
+    <post-item>
+      <template v-slot:title>
+        <router-link to="/posts/shoshin">🔰 Shoshin ⇦</router-link>
+      </template>
+      <template v-slot:description>La mentalidad del principiante.</template>
+      <template v-slot:date>Marzo 2020</template>
+    </post-item>
   </div>
 </template>
 
 <script>
+import PostItem from "@/components/PostItem";
 export default {
-
-}
+  components: {
+    "post-item": PostItem
+  }
+};
 </script>
 
 <style>
-
 </style>
