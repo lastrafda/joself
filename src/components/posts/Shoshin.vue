@@ -15,7 +15,7 @@
       <b>Monje:</b> --Sirviendo té-- Tu mente es como esta copa, está tan llena con ideas que nada más puede entrar. Debes vaciar tu mente antes de que podamos comenzar.
     </p>
     <br />
-    <p>Los mejores programadores son como copas vacias, que constantemente exploran nuevas tecnologías con una mente abierta. Por otro lado, los programadores mediocres han llenado sus mentes con delusión: "PostgresSQL es la unica base de datos a considerar", "Scala es malo", "JavaScript es el mejor lenguaje de programación".</p>
+    <p>Los mejores programadores son como copas vacias, que constantemente exploran nuevas tecnologías con una mente abierta. Por otro lado, los programadores mediocres han llenado sus mentes con delusión: "PostgresSQL es la unica base de datos a considerar", "Scala es malo", "JavaScript es el mejor lenguaje de programación" o "WordPress es horrible" (bueno quizás eso sí :v).</p>
     <br />
     <p>Es mejor tener una mentalidad de principiante cuando se quiere aprender algo, te puede ayudar a captar ideas valiosas que de otra manera perderías :)</p>
     <br />
