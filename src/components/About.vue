@@ -6,11 +6,13 @@
       </div>
       <div class="py-8 text-gray-800">
           <p>Welcome, my page is your page.</p>
-          <p>Please allow me to introduce myself</p>
-          <p>I love to code and be part of a team of wonderful people.</p>
+          <p>🎵 Please allow me to introduce myself</p>
+          <p>I love to code and TDD</p>
           <p>I was 'round when php</p>
-          <p>Had his moment of doubt and pain</p>
-          <p>I'm interested in Laravel, Elixir and Python. But I try to have a <a href="https://en.wikipedia.org/wiki/Shoshin" class="text-yellow-600 font-bold">Shoshin</a> mindset so I'm always open to learn new things!</p>
+          <p>Had his moment of doubt and pain 🎶</p>
+          <br>
+          <p>I'm interested in Laravel, Elixir and Python. But I try to have a <a href="https://en.wikipedia.org/wiki/Shoshin" class="text-yellow-600 font-bold">Shoshin</a> mindset so I'm always open to learn new things</p>
+          <p>And last but not least I love working on teams with wonderful people!</p>
       </div>
       <div class="rounded-lg border-solid border-2 border-yellow-600 text-gray-800 py-4 px-2">
           I'll post things that I find interesting on my publications section. Go check it out if want!
