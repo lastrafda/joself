@@ -15,9 +15,9 @@
         >Contact</router-link>
         <router-link to="/if" class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline">If</router-link>
         <router-link
-          to="/publications"
+          to="/posts"
           class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline"
-        >Publications</router-link>
+        >Posts</router-link>
       </nav>
     </header>
     <main class="max-w-3xl mx-auto py-8 px-4">

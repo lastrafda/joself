@@ -25,7 +25,7 @@
     </div>
     <div
       class="rounded-lg border-solid border-2 border-yellow-600 text-gray-800 py-4 px-2"
-    >I'll post things that I find interesting on my publications section. Go check it out if want!</div>
+    >I'll post things that I find interesting on my posts section. Go check it out if want!</div>
   </div>
 </template>
 
