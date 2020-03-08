@@ -12,7 +12,7 @@
           <p>I was 'round when php</p>
           <p>Had his moment of doubt and pain 🎶</p>
           <br>
-          <p>I'm interested in Laravel, Elixir and Python. But I try to have a <a href="https://en.wikipedia.org/wiki/Shoshin" class="text-yellow-600 font-bold">Shoshin</a> mindset so I'm always open to learn new things</p>
+          <p>I'm interested in Laravel, Elixir and Python. But I try to have a <a href="https://en.wikipedia.org/wiki/Shoshin" class="text-yellow-600 font-bold hover:underline">Shoshin</a> mindset so I'm always open to learn new things</p>
           <p>And last but not least I love working on teams with wonderful people!</p>
       </div>
       <div class="rounded-lg border-solid border-2 border-yellow-600 text-gray-800 py-4 px-2">
