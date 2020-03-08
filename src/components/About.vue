@@ -6,7 +6,7 @@
       </div>
       <div class="py-8 text-gray-800">
           <p>Welcome, my page is your page.</p>
-          <p>Please allow me to introcude myself</p>
+          <p>Please allow me to introduce myself</p>
           <p>I love to code and be part of a team of wonderful people.</p>
           <p>I was 'round when php</p>
           <p>Had his moment of doubt and pain</p>
