@@ -1,6 +1,6 @@
 <template>
   <div
-    class="px-4 flex flex-col border shadow-lg border-solid border-yellow-600 text-gray-800 rounded-lg"
+    class="px-4 flex flex-col border-2 shadow-lg border-solid border-yellow-600 text-gray-800 rounded-lg"
   >
     <div class="pt-2 text-2xl font-bold">
       <slot name="title">Un titulo por defecto</slot>
