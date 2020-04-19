@@ -1,31 +1,34 @@
 <template>
   <div class="px-4 py-8">
     <div>
-      <h1 class="text-3xl font-semibold text-yellow-600">Hello there, I'm José ✌</h1>
-      <p
-        class="text-xl font-semibold text-gray-800"
-      >I'm a backend developer based in Santiago, Chile.</p>
-    </div>
-    <div class="py-8 text-gray-800">
-      <p>Welcome, my page is your page.</p>
-      <br />
-      <p>🎵 Please allow me to introduce myself</p>
-      <p>I love to code and TDD</p>
-      <p>I was 'round when php</p>
-      <p>Had his moment of doubt and pain 🎶</p>
-      <br />
-      <p>
-        I'm interested in Laravel, Elixir and Python. But I try to have a
-        <router-link
-          to="/posts/shoshin"
-          class="text-yellow-600 font-bold hover:underline pr-1"
-        >Shoshin</router-link>mindset so I'm always open to learn new things
+      <img src="poison.png" class="h-8 inline relative" alt="A flask of poison" style="top:-10px" />
+
+      <h1 class="text-3xl font-semibold inline pl-2">Hello there, I'm José</h1>
+      <p class="text-xl font-semibold">
+        I'm a backend developer based in Santiago, Chile.
+        <span
+          class="py-8 italic text-gray-900 text-sm font-medium"
+        >But I want to make the transition into Mobile Development</span>
       </p>
-      <p>And last but not least I love working on teams with wonderful people!</p>
     </div>
-    <div
-      class="rounded-lg border-solid border-2 border-yellow-600 text-gray-800 py-4 px-2"
-    >I'll post things that I find interesting on my posts section. Go check it out if want!</div>
+
+    <div class="py-8">
+      <p class="font-bold">One of the following statements about me is true</p>
+      <p class="py-4">
+        <span class="font-semibold">A)</span>
+        I'm a 100x developer I only take cold showers, read 10 books a month,
+        practice the art of meditation every morning, and can code for 12
+        hours straight whitout making a single mistake.
+      </p>
+      <p class="pb-4">
+        <span class="font-semibold">B)</span>
+        I'm a 24 years old guy who likes to play videogames, read books from time to time
+        and spend time with my dogs (Martina and Flor).
+      </p>
+    </div>
+    <div>
+      <p>Mis posts serán escritos en español.</p>
+    </div>
   </div>
 </template>
 
