@@ -1,8 +1,8 @@
 <template>
   <div class="py-8 text-gray-900">
-    <div class="text-center sm:text-right font-bold italic text-3xl pb-8">
+    <div class="text-center text-yellow-600 sm:text-right font-bold italic text-3xl pb-8">
       If
-      <span class="text-yellow-600">--</span> By Rudyard Kipling
+      <span class="text-gray-900">--</span> By Rudyard Kipling
     </div>
     <div>
       <p>If you can keep your head when all about you</p>
