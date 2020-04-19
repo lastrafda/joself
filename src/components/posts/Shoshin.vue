@@ -32,7 +32,7 @@
         <li>
           <a
             href="https://www.youtube.com/watch?v=Nl2_NCY5aik"
-            class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline"
+            class="text-blue-700 text-md font-bold px-2 py-4 underline"
             target="_blank"
           >Shoshin: Beginner's Mind - The Zen Approach To Grow Faster</a>
           <span class="relative text-md italic" style="top: -1px">por Valerian</span>
@@ -40,7 +40,7 @@
         <li>
           <a
             href="https://jamesclear.com/shoshin"
-            class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline"
+            class="text-blue-700 text-md font-bold px-2 py-4 underline"
             target="_blank"
           >This Zen Concept Will Help You Stop Being a Slave to Old Beliefs</a>
           <span class="relative text-md italic" style="top: -1px">por James Clear</span>
