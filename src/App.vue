@@ -1,23 +1,14 @@
 <template>
-  <div id="app" class="flex-col">
+  <div id="app" class="flex-col font-sans">
     <header
-      class="flex flex-col sm:flex-row justify-between items-center px-8 py-2 border-b-2 border-gray-900 border-solid"
+      class="flex flex-col sm:flex-row justify-between items-center px-8 py-2 border-b-2 border-black border-solid"
     >
-      <span class="text-yellow-600 text-3xl font-bold">Joself</span>
+      <span class="text-3xl font-bold">Joself</span>
       <nav>
-        <router-link
-          to="/"
-          class="text-yellow-600 font-bold text-md px-2 py-4 hover:underline"
-        >About Me</router-link>
-        <router-link
-          to="/contact"
-          class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline"
-        >Contact</router-link>
-        <router-link to="/if" class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline">If</router-link>
-        <router-link
-          to="/posts"
-          class="text-yellow-600 text-md font-bold px-2 py-4 hover:underline"
-        >Posts</router-link>
+        <router-link to="/" class="font-bold text-xl px-2 py-4 hover:underline">About</router-link>
+        <router-link to="/contact" class="text-xl font-bold px-2 py-4 hover:underline">Contact</router-link>
+        <router-link to="/if" class="text-xl font-bold px-2 py-4 hover:underline">If</router-link>
+        <router-link to="/posts" class="text-xl font-bold px-2 py-4 hover:underline">Posts</router-link>
       </nav>
     </header>
     <main class="max-w-3xl mx-auto py-8 px-4">
