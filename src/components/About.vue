@@ -5,10 +5,10 @@
 
       <h1 class="text-3xl font-semibold inline pl-2">Hello there, I'm José</h1>
       <p class="text-xl font-semibold">
-        I'm a backend developer based in Santiago, Chile.
+        I'm a software developer based in Santiago, Chile.
         <span
           class="py-8 italic text-gray-900 text-sm font-medium"
-        >But I want to make the transition into Mobile Development</span>
+        >And I want to make the transition into Frontend Development</span>
       </p>
     </div>
 
